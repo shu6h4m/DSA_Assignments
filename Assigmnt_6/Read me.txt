@@ -1,0 +1,5 @@
+Main.java is to run dictionary.java file
+Main1.java is to run chaning1.java , linearProbing1.java , doubleHashing1.java files
+Main2.java is to run chaning2.java , linearProbing2.java , doubleHashing2.java files
+Main3.java is to run chaning3.java , linearProbing3.java , doubleHashing3.java files
+UniversalHashingMain.java is used to run UniversalHashing.java file
